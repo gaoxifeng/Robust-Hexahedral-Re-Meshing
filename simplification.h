@@ -1,3 +1,15 @@
+//    This file is part of the implementation of
+
+//    Robust Structure Simplification for Hex Re-meshing
+//    Xifeng Gao, Daniele Panozzo, Wenping Wang, Zhigang Deng, Guoning Chen
+//    In ACM Transactions on Graphics (Proceedings of SIGGRAPH ASIA 2017)
+// 
+// Copyright (C) 2017 Xifeng Gao<gxf.xisha@gmail.com>
+// 
+// This Source Code Form is subject to the terms of the Mozilla Public License 
+// v. 2.0. If a copy of the MPL was not distributed with this file, You can 
+// obtain one at http://mozilla.org/MPL/2.0/.
+
 #pragma once
 #include "global_functions.h"
 #include "base_complex.h"
